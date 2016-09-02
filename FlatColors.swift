@@ -1,3 +1,10 @@
+//
+//  FlatColors.swift
+//
+//  Created by Bugra Sefercik on 01/09/2016.
+//  Copyright © 2016 Bugra Sefercik. All rights reserved.
+//
+
 import UIKit
 
 struct FlatColors{
